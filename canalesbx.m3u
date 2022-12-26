@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Canal 36 Jesus Salva
+#EXTINF:0 tvg-logo="https://github.com/virtualizad0/canalesbarillas/blob/main/canal-36.jpg?raw=true",Canal 36 Jesus Salva
 https://stmv.panel.grupolimalive.com/canal36/canal36/chunklist_w671770125.m3u8
 
 #EXTINF:0,Canal 10 Radio Maya

@@ -1,3 +1,12 @@
 #EXTM3U
 #EXTINF:0,Canal 36 Jesus Salva
 https://stmv.panel.grupolimalive.com/canal36/canal36/chunklist_w671770125.m3u8
+
+#EXTINF:0,Canal 10 Radio Maya
+https://video.misistemareseller.com/tvradiomaya/tvradiomaya/chunklist_w1376860958.m3u8
+
+#EXTINF:0,Canal Presencia TV
+https://stream.oursnetworktv.com/latin/remaPresencia/chunklist_w436173209.m3u8
+
+#EXTINF:0,Canal 76 Palabra Verdadera
+https://stmv.panel.grupolimalive.com/verdaderatv/verdaderatv/chunklist_w2095898101.m3u8
